@@ -2,13 +2,6 @@
 
 **Making overlooked climate vulnerabilities visible.**
 
-[![Track](https://img.shields.io/badge/Track-AI%20%2B%20Climate-8B7355)](https://github.com/urjadahal9/Lumyi)
-[![Status](https://img.shields.io/badge/Status-Prototype-blue)](https://github.com/urjadahal9/Lumyi)
-[![Built with React](https://img.shields.io/badge/Built%20with-React-61DAFB)](https://react.dev/)
-
-**Live Demo:** [Open Lumyi](YOUR_VERCEL_LINK_HERE)  
-**Source Code:** [GitHub Repository](https://github.com/urjadahal9/Lumyi)
-
 ---
 
 ##  About Lumyi
