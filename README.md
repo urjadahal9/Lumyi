@@ -78,7 +78,7 @@ Community reports are additionally analysed using predefined keyword matching to
 - Hospital-access and geographical mapping indicators — illustrative values manually defined in the current prototype.
 - Community observations — text entered by users.
 
-## 🚀 Getting Started
+## Getting Started
 
 To run Lumyi locally:
 
