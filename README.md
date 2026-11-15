@@ -160,4 +160,4 @@ We aim to expand Lumyi through:
 
 ---
 
-**Lumyi — Because the communities most overlooked should not remain invisible.** 🌍
+**Lumyi — Because the communities most overlooked should not remain invisible.** 
